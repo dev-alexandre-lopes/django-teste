@@ -2,7 +2,7 @@
 
 ![python](https://user-images.githubusercontent.com/64049906/118983447-736a5900-b94a-11eb-9590-d0151916367b.png)
 
-![64e8d0514914d7094a11700a_774X320 - landing page - Matchday Cashback - Graphics-p-500](https://github.com/dev-alexandre-lopes/django-teste/assets/64049906/a7467c4b-efa3-48c5-bbf2-177882ff7516)
+![IA](https://github.com/dev-alexandre-lopes/django-teste/assets/64049906/0f83a4f0-a703-4264-a317-20546b9b70e8)
 
 **_Python_** é uma linguagem de programação de alto nível — ou **_High Level Language_** —, dinâmica, interpretada, modular, multiplataforma e orientada a objetos — uma forma específica de organizar **_softwares_** onde, a grosso modo, os procedimentos estão submetidos às classes, o que possibilita maior controle e estabilidade de códigos para projetos de grandes proporções.
 
