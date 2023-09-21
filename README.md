@@ -4,6 +4,9 @@
 
 ![IA](https://github.com/dev-alexandre-lopes/django-teste/assets/64049906/0f83a4f0-a703-4264-a317-20546b9b70e8)
 
+![Make a Evil Dru 0 (1)](https://github.com/dev-alexandre-lopes/django-teste/assets/100871578/65a030b1-43b8-40ba-bfb9-d14905f7092b)
+
+
 **_Python_** é uma linguagem de programação de alto nível — ou **_High Level Language_** —, dinâmica, interpretada, modular, multiplataforma e orientada a objetos — uma forma específica de organizar **_softwares_** onde, a grosso modo, os procedimentos estão submetidos às classes, o que possibilita maior controle e estabilidade de códigos para projetos de grandes proporções.
 
 Idealizada e desenvolvida por **_Guido Van Rossum_**, matemático holandês, no início dos anos 90, o **_Python_** foi criado com o objetivo de otimizar a leitura de códigos e estimular a produtividade de quem os cria, seja este um programador ou qualquer outro profissional.
